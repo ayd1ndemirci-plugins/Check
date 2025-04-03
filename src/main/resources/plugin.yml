@@ -1,0 +1,6 @@
+name: Check
+main: ayd1ndemirci.check.Main
+version: "1.0.0"
+api: "2.0.0"
+author: ayd1ndemirci
+depend: ["EconomyAPI"]
